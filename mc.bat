@@ -1,2 +1,2 @@
 @echo off
-cd "C:\Users\Gregory Evevsky\Documents\CodeProjects"
+CD C:\Users\Greg\Documents\Code

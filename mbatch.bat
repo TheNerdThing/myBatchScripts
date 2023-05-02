@@ -1,2 +1,2 @@
 @echo off
-cd "C:\Users\Gregory Evevsky\batch"
+cd "C:\Users\Gregory Evevsky\batch\myBatchScripts"
